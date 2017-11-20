@@ -1,0 +1,8 @@
+C:\Users\maggs\desktop\C#\QuotingDojo1\bin\Debug\netcoreapp1.1\QuotingDojo1.deps.json
+C:\Users\maggs\desktop\C#\QuotingDojo1\bin\Debug\netcoreapp1.1\QuotingDojo1.runtimeconfig.json
+C:\Users\maggs\desktop\C#\QuotingDojo1\bin\Debug\netcoreapp1.1\QuotingDojo1.runtimeconfig.dev.json
+C:\Users\maggs\desktop\C#\QuotingDojo1\bin\Debug\netcoreapp1.1\QuotingDojo1.dll
+C:\Users\maggs\desktop\C#\QuotingDojo1\bin\Debug\netcoreapp1.1\QuotingDojo1.pdb
+C:\Users\maggs\desktop\C#\QuotingDojo1\obj\Debug\netcoreapp1.1\QuotingDojo1.AssemblyInfo.cs
+C:\Users\maggs\desktop\C#\QuotingDojo1\obj\Debug\netcoreapp1.1\QuotingDojo1.dll
+C:\Users\maggs\desktop\C#\QuotingDojo1\obj\Debug\netcoreapp1.1\QuotingDojo1.pdb
